@@ -1,0 +1,1 @@
+# Pide una palabra y cuenta cuántas vocales y consonantes tiene usando for.

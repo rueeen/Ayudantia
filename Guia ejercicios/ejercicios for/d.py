@@ -1,0 +1,1 @@
+#Muestra todos los números pares usando for y range.

@@ -1,0 +1,1 @@
+# Genera un número aleatorio del 1 al 100 y permite al usuario adivinarlo.
