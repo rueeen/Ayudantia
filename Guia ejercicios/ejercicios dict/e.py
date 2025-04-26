@@ -1,0 +1,1 @@
+# Pide al usuario ingresar nombres de alumnos y sus notas, guardándolos en un diccionario. Luego muestra el promedio de notas.

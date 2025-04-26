@@ -1,0 +1,1 @@
+# Dado un diccionario, genera uno nuevo donde las claves sean los valores y los valores sean las claves.
